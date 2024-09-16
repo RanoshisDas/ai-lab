@@ -1,4 +1,4 @@
-#DFS using python list dectionary 
+#DFS & BFS using python list dectionary 
 graph={
     1:[3,2,4],
     2:[4,1],
@@ -11,6 +11,7 @@ graph={
 
 visited = set() 
 stack=[]
+queue=[]
 
 def dfs(visited,stack, graph): 
   
@@ -23,7 +24,24 @@ def dfs(visited,stack, graph):
             visited.add(node)
             for i in graph[node]:
                 stack.append(i)
+    print()
+
+def bfs(visited,stack, graph): 
+  
+    while (len(stack)):
+        node= stack[0]
+        # print(stack)
+        stack.remove(node)
+        if node not in visited:
+            print(node,end=' ')
+            visited.add(node)
+            for i in graph[node]:
+                stack.append(i)
+    print()
         
 print("Following is the Depth-First Search",end=": ")
 stack.append(1)
 dfs(visited,stack, graph)
+print("Following is the Breadth-First Search",end=": ")
+queue.append(1)
+bfs(visited,queue, graph)
