@@ -45,7 +45,7 @@ ai lab in brainware university 5th semester
 2. check **fibonacci** series and print it using prolog.
 
 **6th Lab**
-1. write a python program to print **DFS** search of a graph using **Stack**.
+1. write a python program to print **DFS** of a graph using **Stack**.
 
 **7th Lab**
-1. write a python program to print **BFS** search of a graph using **Queue**.
+1. write a python program to print **BFS** of a graph using **Queue**.
