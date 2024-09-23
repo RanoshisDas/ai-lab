@@ -3,21 +3,22 @@ ai lab in brainware university 5th semester
 
 **1st Lab**
 1. write a prolog program on this following sentances-
-    (i).    Gold is valuable.
-    (ii).   Ram is happy.
-    (iii).  sita is happy.
-    (iv).   rohit loves cricket.
+    1. Gold is valuable.
+    2. Ram is happy.
+    3. Sita is happy.
+    4. Rohit oves cricket.
 
 **2nd Lab**
 1. write a prolog program on this following sentances-
-    (i).    Ananya is singing. 
-    (ii).   Ananya sings when she listan music.
-    (iii).  Ananya sings make her happy.
-    (iv).   Rohit sings.
-    (v).    when Rohit sings he played guitar.
+    1. Ananya is singing. 
+    2. Ananya sings when she listan music.
+    3. Ananya sings make her happy.
+    4. Rohit sings.
+    5. when Rohit sings he played guitar.
 
 **3rd Lab**
 1. family tree:
+<pre>
         (a)m    (z)f
           \______/
           /      \
@@ -25,6 +26,7 @@ ai lab in brainware university 5th semester
          |        \_____/
          |           |
         (f)m        (e)f
+</pre>
 
     **Quary:**
     1. husband(X,Y)
