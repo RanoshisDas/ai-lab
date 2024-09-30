@@ -49,3 +49,11 @@ ai lab in brainware university 5th semester
 
 **7th Lab**
 1. write a python program to print **BFS** of a graph using **Queue**.
+
+**8th Lab**
+1. write a prolog program to implemtent **list** and create this following functions
+    1. Insert
+    2. Delete
+    3. In the list or not
+    4. Lenght of the list
+   
