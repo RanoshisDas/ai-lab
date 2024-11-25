@@ -29,7 +29,6 @@ ai lab in brainware university 5th semester
 </pre>
 
 **Quary:**
-
     1. husband(X,Y)
     2. grandfather(X,f)
     3. grandmother(X,f)
