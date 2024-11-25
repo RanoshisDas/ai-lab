@@ -57,3 +57,28 @@ ai lab in brainware university 5th semester
     3. In the list or not
     4. Lenght of the list
    
+**9th Lab**
+1. Water jug problem with 4L & 3L unmarked beaker. Goal achive 2L of water in 4L jar when we have unlimited suppy.
+
+**10th Lab**
+1. Tower of Hanoi using Prolog.
+
+**11th Lab**
+1. Alice works at a company called TechCorp. Bob works at a company called InnovateLtd. Carol is a manager at TechCorp. Bob is a project manager at InnovateLtd. Carol manages Alice. Alice is working on a project called "Cloud Expansion". Carol oversees both the "AI Project" and "Cloud Expansion". Carol is the boss of both Alice and Bob. Alice and Bob are both ivolved in the "Global Innovation Conference".
+    1. Who works at TechCorp?
+    2. Who works on "AI Project"?
+    3. Who is Carol's Manager?
+    4. what project is Carol managing?
+    5. who attend the "Global Innovation Conference"?
+  
+**12th Lab**
+1. Write a prolog code to check whether two nodes are connected or not in a graph.
+<pre>
+            (a)--->--(b)--<---(f)
+             |    v--/|
+             |    |   |
+             v  __V   ^
+             | /      |
+            (c)--->--(d)
+</pre>
+
